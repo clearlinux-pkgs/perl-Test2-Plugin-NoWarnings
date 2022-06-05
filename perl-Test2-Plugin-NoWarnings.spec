@@ -4,7 +4,7 @@
 #
 Name     : perl-Test2-Plugin-NoWarnings
 Version  : 0.09
-Release  : 3
+Release  : 4
 URL      : https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Test2-Plugin-NoWarnings-0.09.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Test2-Plugin-NoWarnings-0.09.tar.gz
 Summary  : 'Fail if tests warn'
@@ -104,5 +104,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/Test2/Event/Warning.pm
-/usr/lib/perl5/vendor_perl/5.34.0/Test2/Plugin/NoWarnings.pm
+/usr/lib/perl5/*
