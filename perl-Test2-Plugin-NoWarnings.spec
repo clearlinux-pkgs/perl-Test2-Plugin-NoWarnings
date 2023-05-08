@@ -4,7 +4,7 @@
 #
 Name     : perl-Test2-Plugin-NoWarnings
 Version  : 0.09
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Test2-Plugin-NoWarnings-0.09.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DR/DROLSKY/Test2-Plugin-NoWarnings-0.09.tar.gz
 Summary  : 'Fail if tests warn'
