@@ -1,5 +1,4 @@
-0.09
-perl(Importer)
-perl(Sub::Info)
+0.10
+perl(Module::Pluggable)
 perl(Test2::Require::Module)
 perl(Test2::V0)
